@@ -8,7 +8,6 @@
     "TEXT_MUTED": [ "#c2a7b6" ], 
     "TEXT_DANGER": [ "#991d61" ], 
     "TEXT_LINK": [ "#fc65b8" ], 
-    
     "SCROLLBAR_THIN_THUMB": [ "#471a33" ], 
     "SCROLLBAR_THIN_TRACK": [ "transparent" ], 
     "SCROLLBAR_AUTO_THUMB": [ "#2e1121" ], 
